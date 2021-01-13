@@ -568,7 +568,7 @@ p.w3l-par-st {
     text-transform: capitalize;
     color: #adadad;
 }
-.social i.fa {
+.social i.fa, i.fab {
     font-size: 15px;
     text-align: center;
     line-height: 35px;
@@ -577,15 +577,19 @@ p.w3l-par-st {
     color: #000;
     margin-bottom: 17px;
 }
-.social i.fa.fa-facebook {
+.social i.fab.fa-facebook {
     color: #fff;
     background: #3b5998;
 }
-.social i.fa.fa-github {
+.social i.fab.fa-telegram {
+	color: #fff;
+	background: #2fbdda;
+}
+.social i.fab.fa-github {
 	color: #fff;
 	background: #535050f1;
 }
-.social i.fa.fa-linkedin {
+.social i.fab.fa-linkedin {
 	color: #fff;
 	background: #2167ffde;
 }
@@ -593,7 +597,7 @@ p.w3l-par-st {
 	color: #fff;
 	background: #b7b5b8de;
 }
-.social i.fa.fa-instagram{
+.social i.fab.fa-instagram{
     color: #fff;
     background: #ff62a9;
 }
@@ -601,7 +605,7 @@ p.w3l-par-st {
     color: #fff;
     background:blue;
 }
-.social i.fa.fa-whatsapp{
+.social i.fab.fa-whatsapp{
     color: #fff;
     background:green;
 }
