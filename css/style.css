@@ -589,6 +589,10 @@ p.w3l-par-st {
 	color: #fff;
 	background: #2167ffde;
 }
+.social i.fa.fa-envelope {
+	color: #fff;
+	background: #b7b5b8de;
+}
 .social i.fa.fa-instagram{
     color: #fff;
     background: #ff62a9;
@@ -2608,9 +2612,9 @@ p.para-w3-agile {
 video, iframe{
     height: 200px;
     width: 100%;
-    border-radius: 6px;
+    /* border-radius: 6px;
     border-style: ridge;
-    border-color: blue;
+    border-color: blue; */
 }
 
 img {
@@ -2654,4 +2658,8 @@ img {
 }
 .bannerIco{
 	width: 64px; height: 64px; 
+}
+
+.infoContact p {
+	font-size: 10px;
 }
