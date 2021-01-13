@@ -304,7 +304,7 @@ li#callbacks1_s3 {
     text-decoration: none;
     width: 25px;
     height: 30px;
-    background: transparent url(../images/arrows.png) no-repeat left top;
+    /* background: transparent url(../images/arrows.png) no-repeat left top; */
 }
  .callbacks_nav:hover{
   	opacity: 0.3;
